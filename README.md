@@ -9,3 +9,4 @@ Testing Github for JIRA
 BEC-135-testing-github-jira-integration
 BEC-137-github-jira-integration-testing
 PR Automation Testing
+Status Automation based on PR request
