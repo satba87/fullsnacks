@@ -10,3 +10,5 @@ BEC-135-testing-github-jira-integration
 BEC-137-github-jira-integration-testing
 PR Automation Testing
 Status Automation based on PR request
+Status Automation based on PR Request 2
+Status Automation based on PR Request 3
